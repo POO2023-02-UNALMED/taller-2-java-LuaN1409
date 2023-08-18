@@ -31,7 +31,7 @@ public class Auto {
 				
 				if (asientos[i] != null){
 					
-					if (registro != asientos[i].registro);{
+					if (registro != asientos[i].registro){
 						
 						return("Las piezas no son originales");
 					}
